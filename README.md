@@ -1,2 +1,3 @@
-# Syntax-Pshycos
-Gurukul Education Project :- automated notes and personalized learning, Convert lectures from audio and video into clear, interactive study materials effortlessly.
+## edunova
+
+![napkin-selection (1)](https://github.com/user-attachments/assets/db67bd78-4cb8-473b-b397-5583fd6fcd43)
